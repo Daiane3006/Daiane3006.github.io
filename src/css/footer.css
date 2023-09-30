@@ -1,0 +1,10 @@
+footer {
+    background-color: var(--azul-claro);
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+
+footer p{
+    font-family: var(--Open);
+    text-align: center;
+}

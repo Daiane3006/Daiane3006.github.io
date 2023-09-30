@@ -1,0 +1,25 @@
+.formacao{
+    background-color: #eed3f9;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+}
+.academica{
+    margin-top: 2rem;
+}
+
+.academica img{
+    width: 30vw;
+    max-width: 600px;
+    margin-top: 1rem;
+}
+.academica h5{
+    font-weight: 700;
+    font-size: 1.2rem;
+    font-family: var(--Open);
+}
+.academica p{
+    line-height: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-family: var(--Open);
+}

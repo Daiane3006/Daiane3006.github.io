@@ -1,0 +1,79 @@
+<main>
+        <section class="apresentacao container">
+            <h2>Olá, me chamo Daiane e construo páginas web</h2>
+
+            <p>Sou formada em técnica em segurança do trabalho e tecnóloga em sistemas para internet
+                (2023.1), pelo IFRN-Campus Canguaretama/RN.
+            </p>
+
+            <ul class="rede_social">
+                <li>GitHub</li>
+                <li>Linkedin</li>
+                <li>Instagram</li>
+                <li>Currículo</li>
+            </ul>
+
+            <img src="" alt="Foto de Daiane">
+        </section>
+
+        <section class="sobre">
+            <h2>Sobre mim</h2>
+
+            <p></p>
+        </section>
+
+        <!-- HABILIDADES -->
+        <section class="skills">
+            <h3 class="skills_titulo">Skills</h3>
+
+            <ul class="skills_card">
+                <li>
+                    <article>
+                        <p>HTML5</p>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <p>CSS</p>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <p>JAVASCRIPT</p>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <p>REACT</p>
+                    </article>
+                </li>
+            </ul>
+        </section>
+
+        <!-- PASSATEMPO -->
+        <section class="hobbies">
+            <h3 class="hobbies_titulo">Hobbies</h3>
+
+            <ul class="hobbies_card">
+                <li>
+                    <article>
+                        <p></p>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <p></p>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <p></p>
+                    </article>
+                </li>
+                <li>
+                    <article>
+                        <p></p>
+                    </article>
+                </li>
+            </ul>
+        </section>
